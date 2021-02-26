@@ -26,10 +26,9 @@ Here are places to look regarding me and my information:
 [jamstack]: https://jamstack.org
 [next]: https://nextjs.org
 [typescript]: https://www.typescriptlang.org
-[website]: https://jamesavakian.com
+[website]: http://www.jamesavakian.com
 [twitter]: https://twitter.com/javakian
 [youtube]: https://www.youtube.com/channel/UCJ4W2V7CUMbj6jC_Qt0a2Ug
-
 [instagram]: https://instagram.com/javakian
 [linkedin]: https://linkedin.com/in/javakian
 
