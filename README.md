@@ -1,9 +1,7 @@
 ### Hi there 👋
 I am a Software Developer and currently becoming an expert using React.JS, Next.JS, and Sanity.io CMS MERN Next.JS Responsive Full Stack Website HandHeld apps.
 
-<!--
-
-Here are some ideas to get you started:
+Here are places to look regarding me and my information:
 
 - 🔭 I’m currently working on Next.JS and Sanity.io...
 - 🌱 I’m currently learning Next.JS and Sanity.io...
@@ -34,4 +32,4 @@ Here are some ideas to get you started:
 
 [instagram]: https://instagram.com/javakian
 [linkedin]: https://linkedin.com/in/javakian
--->
+
