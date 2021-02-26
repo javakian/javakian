@@ -1,8 +1,8 @@
-### Hi there 👋 I am a Software Developer and currently becoming an expert using React.JS, Next.JS, and Sanity.io CMS MERN Next.JS Responsive Full Stack Website HandHeld apps.
+### Hi there 👋 I am a Software Developer currently developing products for Optical Automation, LLC. I am becoming an expert using React.JS, Next.JS, and Sanity.io CMS MERN Responsive Full Stack Website HandHeld apps.
 
 Here are places to look regarding me and my information:
 
-- 🔭 I’m currently working on Next.JS and Sanity.io...
+- 🔭 I’m currently working on a new version of The ProductList Network with The ShopperLady dbs using Next.JS and Sanity.io...
 - 🌱 I’m currently learning Next.JS and Sanity.io...
 - 👯 I’m looking to collaborate on Next.js / Sanity.io project
 - 🤔 I’m looking for help with design and deployment.
