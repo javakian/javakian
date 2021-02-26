@@ -29,6 +29,6 @@ Here are places to look regarding me and my information:
 [website]: http://www.jamesavakian.com
 [twitter]: https://twitter.com/javakian
 [youtube]: https://www.youtube.com/channel/UCJ4W2V7CUMbj6jC_Qt0a2Ug
-[instagram]: https://instagram.com/javakian
-[linkedin]: https://linkedin.com/in/javakian
+[instagram]: https://www.instagram.com/jamesavakian/
+[linkedin]: https://www.linkedin.com/in/james-l-avakian-13500713/
 
