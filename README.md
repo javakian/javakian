@@ -1,7 +1,4 @@
-
-
 [![bg][banner]][website]
-
 
 [banner]: https://raw.githubusercontent.com/javakian/javakian/master/1.png
 
