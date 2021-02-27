@@ -1,4 +1,12 @@
-src=https://github.com/javakian/javakian/edit/main/1.png
+
+
+[![bg][banner]][website]
+
+
+[banner]: https://raw.githubusercontent.com/javakian/javakian/master/1.png
+
+
+
 
 ## Hi there 👋 I am a Software Developer currently developing products for Optical Automation, LLC. I am becoming an expert using React.JS, Next.JS, and Sanity.io CMS MERN Responsive Full Stack Website HandHeld apps.
 
