@@ -6,14 +6,14 @@ Hi there, 👋  I am a Software Developer currently developing products for Opti
 
 Here are places to look at regarding me and my information:
 
-- 🔭  I’m currently working on a new version of The ProductList Network with The ShopperLady dbs using Next.JS and Sanity.io...
-- 🌱  I’m currently learning Next.JS and Sanity.io...
-- 👯  I’m looking to collaborate on Next.js / Sanity.io project
-- 🤔  I’m looking for help with design and deployment.
-- 💬  Ask me about creating a website for your and your business.
-- 📫  How to reach me: email, Facebook, Twitter, and others
-- 😄  Pronouns: he/him
-- ⚡  Fun fact: I like people and conversation.
+- 🔭  , I’m currently working on a new version of The ProductList Network with The ShopperLady dbs using Next.JS and MongoDB database.
+- 🌱  , I’m currently learning Next.JS and Sanity.io...
+- 👯  , I’m looking to collaborate on Next.js / Sanity.io project
+- 🤔  , I’m looking for help with design and deployment.
+- 💬  , Ask me about creating a website for your and your business.
+- 📫  , How to reach me: email, Facebook, Twitter, and others
+- 😄  , Pronouns: he/him
+- ⚡  , Fun fact: I like people and conversation.
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
