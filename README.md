@@ -2,7 +2,7 @@
 
 [banner]: https://raw.githubusercontent.com/javakian/javakian/master/1.png
 
-Hi there, 👋  I am a Software Developer currently developing products for Optical Automation, LLC. I use industry MERN React.JS information technology. From this full stack information technology I use MongoDB, Express.JS, React.JS, and Node.JS technology. I am preparing a special second version of our website utilizing React.JS, Next.JS, and MongoDB database information management technology. This technology is the fastest responding website technology available especially because it is serverless and headless. I deploy websites using Github, Synk, Vercel, and also Netlify technologies.
+Hi there, 👋 , I am a Software Developer currently developing products for Optical Automation, LLC. I use industry MERN React.JS information technology. From this full stack information technology I use MongoDB, Express.JS, React.JS, and Node.JS technology. I am preparing a special second version of our website utilizing React.JS, Next.JS, and MongoDB database information management technology. This technology is the fastest responding website technology available especially because it is serverless and headless. I deploy websites using Github, Synk, Vercel, and also Netlify technologies.
 
 Here are places to look at regarding me and my information:
 
