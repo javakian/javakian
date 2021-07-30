@@ -19,10 +19,12 @@ Here are places to look at regarding me and my information:
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+👔 [linkedin][linkedin]**|** 
+ 🏡 [Patreon][linkedin]**|** 
 
+https://www.patreon.com/MyOneUniverse?fan_
 
-[react]: http://reactjs.org
+landing=true[react]: http://reactjs.org
 [firebase]: https://firebase.google.com
 [styled]: https://styled-components.com
 [jamstack]: https://jamstack.org
