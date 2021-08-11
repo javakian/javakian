@@ -14,10 +14,10 @@ Here are places to look at regarding me and my information:
 - 📫  , How to reach me: email, Facebook, Twitter, and more . . .
 - 😄  , Pronouns: he/him
 - ⚡   , My Fun facts: I like to know what people do and how they do it; 
-- ⚡   , My Fun facts:   enjoy people and conversation, looking at people at the beach;
-- ⚡   , My Fun facts:   like to know what people do and how they do it; 
-- ⚡   , My Fun facts:   enjoy my computer and photography using my digital camera; and
-- ⚡   , My Fun facts:   develop software, create product videos, watch movies, listen to music, and converse at a restaurant.
+- ⚡   ,  enjoy people and conversation, looking at people at the beach;
+- ⚡   ,  like to know what people do and how they do it; 
+- ⚡   ,  enjoy my computer and photography using my digital camera; and
+- ⚡   ,  develop software, create product videos, watch movies, listen to music, and converse at a restaurant.
 
 🏡 [website][website] **|**
 🐦 [twitter][twitter] **|**
