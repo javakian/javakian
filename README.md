@@ -6,7 +6,7 @@ Hi 👋 , I am a Software Developer currently developing products for Optical Au
 
 Here are places to look at regarding me and my information:
 
-- 🔭  , I’m currently working on a new version of The ProductList Network with The ShopperLady dbs using Next.JS and MongoDB database.
+- 🔭  , I’m currently working on a five website network for consumers and people information by Next.JS.
 - 🌱  , I’m currently learn and master Next.JS, Tailwindcss, and MongoDB database
 - 👯  , I’m looking to collaborate on Next.JS project
 - 🤔  , I’m looking for Next.JS efficient design and deployment solutions.
