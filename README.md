@@ -13,18 +13,20 @@ Here are places to look at regarding me and my information:
 - 💬  , Ask me about creating a website for your and your business.
 - 📫  , How to reach me: email, Facebook, Twitter, and more . . .
 - 😄  , Pronouns: he/him
-- ⚡  , Fun fact: I like people and conversation.
+- ⚡   , Fun facts: I like to know what people do and how they do it; 
+-     ,            I enjoy people and conversation, looking at people at the beach; 
+-                  I enjoy my computer and photography using my digital camera;
+-                  I participate, develop software, create product videos, watch movies, listen to music, and converse at a restaurant.
 
 🏡 [website][website] **|**
 🐦 [twitter][twitter] **|**
 📺 [youtube][youtube] **|**
 📷 [instagram][instagram] **|**
-👔 [linkedin][linkedin]**|**
- 🏡 [Patreon][linkedin]**|**
+👔 [linkedin][linkedin] **|**
+🏡 [Patreon][linkedin] **|**
 
 https://www.patreon.com/MyOneUniverse?fan_
 
-landing=true[react]: http://reactjs.org
 [firebase]: https://firebase.google.com
 [styled]: https://styled-components.com
 [jamstack]: https://jamstack.org
