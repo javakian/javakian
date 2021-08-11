@@ -14,7 +14,7 @@ Here are places to look at regarding me and my information:
 - 📫  , How to reach me: email, Facebook, Twitter, and more . . .
 - 😄  , Pronouns: he/him
 - ⚡   , Fun facts: I like to know what people do and how they do it; 
--     ,            I enjoy people and conversation, looking at people at the beach; 
+-                  I enjoy people and conversation, looking at people at the beach; 
 -                  I enjoy my computer and photography using my digital camera;
 -                  I participate, develop software, create product videos, watch movies, listen to music, and converse at a restaurant.
 
