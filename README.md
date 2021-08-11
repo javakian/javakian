@@ -15,8 +15,8 @@ Here are places to look at regarding me and my information:
 - 😄  , Pronouns: he/him
 - ⚡   , My Fun facts: I like to know what people do and how they do it; 
 - ⚡   ,  enjoy people and conversation, looking at people at the beach;
-- ⚡   ,  like to know what people do and how they do it; 
-- ⚡   ,  enjoy my computer and photography using my digital camera; and
+- ⚡   ,  like to know what people do and how they do it in malls; 
+- ⚡   ,  enjoy my computer, digital camera, and look at photography publically; and
 - ⚡   ,  develop software, create product videos, watch movies, listen to music, and converse at a restaurant.
 
 🏡 [website][website] **|**
