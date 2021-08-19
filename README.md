@@ -13,7 +13,8 @@ Here are places to look at regarding me and my information:
 - 💬  , Ask me about creating a website for your and your business.
 - 📫  , How to reach me: email, Facebook, Twitter, and more . . .
 - 😄  , Pronouns: he/him
-- ⚡   , My Fun facts: I am a people watcher. I enjoy people and conversation, looking at people at the beach. I enjoy my computer, digital camera, photography and  - ⚡   ,  software. I create product videos, watch movies, listen to music, and dine at fine places.
+- ⚡   , My Fun facts: I am a people watcher. I enjoy people and conversation, looking at people at the beach. I enjoy using my computer, 
+- ⚡       digital camera, photography and writing software. I create product videos, watch movies, listen to music, and dine at fine places.
 
 🏡 [website][website] **|**
 🐦 [twitter][twitter] **|**
