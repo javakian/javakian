@@ -6,8 +6,8 @@ Hi 👋 , I am a Software Developer currently developing products for Optical Au
 
 Here are places to look at regarding me and my information:
 
-- 🔭  , I’m currently working on a five website network for consumers and people information by Next.JS.
-- 🌱  , I’m currently learn and master Next.JS, Tailwindcss, and MongoDB database
+- 🔭  , I’m currently working on a five website network for consumers and people information by React.JS.
+- 🌱  , I’m currently learn and master React.JS / CSS3, ReactNative.JS, Next.JS / Tailwindcss, and MongoDB database
 - 👯  , I’m looking to collaborate on Next.JS project
 - 🤔  , I’m looking for Next.JS efficient design and deployment solutions.
 - 💬  , Ask me about creating a website for your and your business.
@@ -15,6 +15,8 @@ Here are places to look at regarding me and my information:
 - 😄  , Pronouns: he/him
 - ⚡   , My Fun facts: I am a people watcher. I enjoy people and conversation, looking at people at the beach. I enjoy using my computer, 
 - ⚡       digital camera, photography and writing software. I create product videos, watch movies, listen to music, and dine at fine places.
+
+Second GitHub Repo at https://www.Github.com/JamesAvakian62_
 
 🏡 [website][website] **|**
 🐦 [twitter][twitter] **|**
